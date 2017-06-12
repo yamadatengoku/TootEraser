@@ -1,4 +1,3 @@
-#https://mstdn.jp/web/statuses/19814124
 from mastodon import Mastodon
 import os.path
 import time
